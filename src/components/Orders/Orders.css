@@ -1,0 +1,15 @@
+.cart{
+   
+    border: 1px solid gray;
+    width: 398px;
+    text-align: center;
+}
+.cart h4{
+    font-size: 16px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cart h3{
+font-size: 16px;
+color: yellowgreen;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
